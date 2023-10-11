@@ -1,0 +1,223 @@
+{
+    "0": {
+        "title": "Entreprenote",
+        "year": "2023",
+        "description": "Simplify team evaluation with our dedicated rating application for jury members.",
+        "photoLink": "entreprenoteLogo",
+        "details": {
+            "team": "Sharbel SEKIAS, Alexandre BRIONGOS, Romain FAGOT",
+            "technologies": {
+                "frontEnd": "Angular, HTML, CSS, Bootstrap",
+                "backEnd": "Java, Spring-boot, Hibernate, PostgreSQL",
+                "techno": "Docker, Docker-compose"
+            },
+            "description": [
+                "Comming soon..."
+            ],
+            "liveDemo": "http://entreprenote.ddns.net",
+            "photos": [
+                "entre1",
+                "entre2"
+            ]
+        }
+    },
+
+    "3": {
+        "title": "Pacmania",
+        "year": "2022",
+        "description": "Experience the ultimate Pac-Man game with AI-powered gameplay between two players",
+        "photoLink": "pacman",
+        "details": {
+            "team": "Sharbel SEKIAS, Alexandre BRIONGOS, Romain FAGOT, Arnaud GUILLARD",
+            "technologies": {
+                "frontEnd": "HTML, CSS",
+                "backEnd": "C language"
+            },
+            "description": [
+                "Pac-Man game between two players.",
+                "Each Pac-Man uses an AI algorithm to eat dots.",
+                "Each Pac-Man will find the nearest dot to eat and the shortest way to take.",
+                "You can also play against AI (with a low probability of winning)."
+            ],
+            "liveDemo": "http://pacmania.ddns.net/",
+            "photos": [
+                "pacman1",
+                "pacman2",
+                "pacman3"
+            ]
+        }
+    },
+    "4": {
+        "title": "MyTodo",
+        "year": "2022",
+        "description": "Effortlessly create to-do lists with our versatile web and console application.",
+        "photoLink": "todo",
+        "details": {
+            "team": "Sharbel SEKIAS",
+            "technologies": {
+                "frontEnd": "HTML, CSS, BOOTSTRAP",
+                "backEnd": "JavaScript, NodeJs, Express, MongoDb"
+            },
+            "description": [
+                "With this application you can create and organize your To-do lists.",
+                "You need to create an account to be able to access the services.",
+                "Task Categories: Divids tasks into certain groups and can be assigned before or after creating the task.",
+                "You can add,edit and delete tasks or categories.",
+                "The application is available with an interface (GUI) and Command-line (CLI).",
+                "Built with Model–view–controller architecture.",
+                "Created a gitHub to track changes in the source code."
+            ],
+            "liveDemo": "NOT AVAILABLE YET",
+            "photos": [
+                "todo1",
+                "todo2",
+                "todo3",
+                "todo4",
+                "todo5",
+                "todo6",
+                "todo7",
+                "todo8",
+                "todo9",
+                "bdd",
+                "packages"
+            ]
+        }
+    },
+    "5": {
+        "title": "Internship project",
+        "year": "2021",
+        "description": "Web application to replace EXCEL files with DataBase",
+        "photoLink": "noImage",
+        "details": {
+            "team": "Sharbel SEKIAS",
+            "technologies": {
+                "frontEnd": "VueJs, BOOTSTRAP",
+                "backEnd": "JavaScript, FQL, Netlify, Fauna DataBase"
+            },
+            "description": [
+                "This Web Application was created to replace Excel files by a real dataBase with the possibility to apply filters to the tables to get better results.",
+                "Develloped a script that automaticly insert data to the database using dynamic request from an Excel file.",
+                "The database contains vehicle’s details (brand, model, price..)",
+                "Possibility to add/modify or delete manualy certain data.",
+                "Used serverless architecture with netlify.",
+                "Applied the Agile software development method using Jira.",
+                "Created a gitlab to track changes in the source code."
+            ],
+            "liveDemo": "NOT AVAILABLE YET",
+            "photos": []
+        }
+    },
+    "6": {
+        "title": "AMU news",
+        "year": "2021",
+        "description": "Web Application to read news and customize sections and sources with flux RSS",
+        "photoLink": "rss",
+        "details": {
+            "team": "Sharbel SEKIAS, Hugo SANCHEZ",
+            "technologies": {
+                "frontEnd": "HTML, CSS, BOOTSTRAP, JQuery",
+                "backEnd": "JavaScript"
+            },
+            "description": [
+                "This Web Application was created to customize and read news (same idea as google news).",
+                "Sections are generated dynamically  by adding a link of the flux RSS.",
+                "Customize every section by choosing the name of the section, the number of articles to add, and the chronological order.",
+                "Search Bar to search an article from existing articles."
+            ],
+            "liveDemo": "NOT AVAILABLE YET",
+            "photos": [
+                "news1",
+                "news2",
+                "news3"
+            ]
+        }
+    },
+    "7": {
+        "title": "arXiv Organizer",
+        "year": "2020",
+        "description": "Filter and save scientific articles with our powerful software application.",
+        "photoLink": "arxivLogo",
+        "details": {
+            "team": "Sharbel SEKIAS, Cedric MASSAT, Nicolas *******, Anass EL AFYA",
+            "technologies": {
+                "frontEnd": "JavaFx",
+                "backEnd": "Java"
+            },
+            "description": [
+                "We have created a software applciation that helps regroup and filter scientific articles from the website arXiv to get better results.",
+                "With this application, we can apply the next filters: Category, Period, Authors, Keywords (in the title or the description).",
+                "Developed a favorites system to save articles for later.",
+                "Download one or many articles with a simple click.",
+                "Added some basic statistics tool to compare the number of articles for each author.",
+                "This application is available with an interface (GUI) or on line commande (CLI).",
+                "Applied the Agile software development method.",
+                "Created a gitLab to track changes in the source code and to be able to work on many branches as the same time.",
+                "Used Model–view–controller architecture.",
+                "JUnit testing in Java for each Class.",
+                "Used RobotFx testing for the GUI."
+            ],
+            "liveDemo": "NOT AVAILABLE YET",
+            "photos": [
+                "arxiv1",
+                "arxiv2",
+                "arxiv3",
+                "arxiv4"
+            ]
+        }
+    },
+    "8": {
+        "title": "Dungeon Game",
+        "year": "2020",
+        "description": "2D dungeon game to save the world by defeating monsters and boss.",
+        "photoLink": "donjon",
+        "details": {
+            "team": "Sharbel SEKIAS, Marc CHOURAQUI",
+            "technologies": {
+                "frontEnd": "JavaFx",
+                "backEnd": "Java"
+            },
+            "description": [
+                "We have developed a Game using Java Oriented Language with JavaFx to have a simple interface.",
+                "The Game is formed from many rooms.",
+                "Each room is accessible via a door, and contains items and monsters.",
+                "Each new room has a stronger Monster.",
+                "Each time you kill a Monster you have to choose one out of three randomly generated items.",
+                "Items will help you win the game, so choose the right ones !",
+                "When you have no more HP, you will lose the game.",
+                "To save the World, you have to kill all the monstres and the BIG BOSS."
+            ],
+            "liveDemo": "NOT AVAILABLE YET",
+            "photos": []
+        }
+    },
+    "9": {
+        "title": "StudyPedia",
+        "year": "2019",
+        "description": "An interactive platform for teachers and students to share and evaluate courses.",
+        "photoLink": "Online-Learning",
+        "details": {
+            "team": "Sharbel SEKIAS",
+            "technologies": {
+                "frontEnd": "HTML, CSS, BOOTSTRAP",
+                "backEnd": "JavaScript, NodeJs, Express, MySQL"
+            },
+            "description": [
+                "Web Application to access online courses.",
+                "You need to have an account, either as a teacher or student",
+                "Each teacher can upload multiple courses on this application.",
+                "Each student has access to all open-source courses.",
+                "Students can add courses to their favorite list.",
+                "Students can like a course and access the list of likers.",
+                "Students can find courses by checking the list of all teachers signed into the platform."
+            ],
+            "liveDemo": "NOT AVAILABLE YET",
+            "photos": [
+                "study1",
+                "study2",
+                "study3",
+                "study4",
+                "study5"
+            ]
+        }
+    }
+}
